@@ -1,0 +1,1 @@
+请点击sub_pingtest_gui.py，windows系统下请把sub_pingtest_gui.py改为sub_pingtest_gui.pyw
